@@ -1,6 +1,6 @@
 
 package Clases;
 
-public class Vehiculo {
+public class Moto {
     
 }
